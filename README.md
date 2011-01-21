@@ -7,4 +7,5 @@ It could serve as a starting point if all you want to do is integrate the androi
 ### Using
 Download the source.  Run it and place the camera in portrait mode about 15-30 centimeters away from your face.  Once the camera detects your face a new activity will be launched.
 
-
+### Requirements
+This currently only uses rear facing camera and I haveo only tested it on motorolly milestone.
