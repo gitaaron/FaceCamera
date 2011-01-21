@@ -1,6 +1,6 @@
 package com.alu.fc;
 
-import com.alu.vc.R;
+import com.alu.fc.R;
 
 import android.app.Activity;
 import android.os.Bundle;
