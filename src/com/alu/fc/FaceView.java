@@ -1,4 +1,6 @@
-package com.alu.vc;
+package com.alu.fc;
+
+import com.alu.vc.R;
 
 import android.content.Context;
 import android.graphics.Bitmap;
